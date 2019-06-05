@@ -1,0 +1,3 @@
+ecs-pipeline-cd-users-svc
+    |-- buildspec.yml
+    `-- Dockerfile
