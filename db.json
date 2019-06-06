@@ -1,34 +1,22 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "marceline",
-      "name": "Marceline Abadeer",
-      "bio": "1000 year old vampire queen, musician"
+        "id": 1,
+        "username": "gina",
+        "name": "Gina Lanetti",
+        "bio": "The best ever!"
     },
     {
-      "id": 2,
-      "username": "finn",
-      "name": "Finn 'the Human' Mertens",
-      "bio": "Adventurer and hero, last human, defender of good"
+        "id": 2,
+        "username": "jake",
+        "name": "Jake Perolta",
+        "bio": "Noooice"
     },
     {
-      "id": 3,
-      "username": "pb",
-      "name": "Bonnibel Bubblegum",
-      "bio": "Scientist, bearer of candy power, ruler of the candy kingdom"
-    },
-    {
-      "id": 4,
-      "username": "jake",
-      "name": "Jake the Dog",
-      "bio": "Former criminal, now magical dog adventurer, and father"
-    },
-    {
-      "id": 5,
-      "username": "chaya",
-      "name": "Chayapa Oyjinda",
-      "bio": "AWS TechU Associate Technical Trainer"
+        "id": 3,
+        "username": "terry",
+        "name": "Terry Crews",
+        "bio": "I love yoghurt, man"
     }
   ]
 }
